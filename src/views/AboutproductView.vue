@@ -1,7 +1,11 @@
-<script setup lang="ts">
-import AboutProduct from '@/components/AboutProduct.vue'
+<script setup lang="js">
+import ContainerCardBlockLinks from '@/components/ContainerCardBlockLinks.vue'
+import HeroSection from '@/components/HeroSection.vue'
+import MarQueeLogos from '@/components/MarQueeLogos.vue'
 </script>
 
 <template>
-  <AboutProduct />
+  <HeroSection />
+  <MarQueeLogos />
+  <ContainerCardBlockLinks />
 </template>
