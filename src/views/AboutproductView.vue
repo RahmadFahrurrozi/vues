@@ -11,7 +11,7 @@ import CtaButton from '@/components/CtaButton.vue'
     <MarQueeLogos />
     <ContainerCardBlockLinks />
     <div class="flex justify-center py-12">
-      <CtaButton>Lewati ke produk kami</CtaButton>
+      <CtaButton variant="secondary">Lewati ke produk kami</CtaButton>
     </div>
   </section>
 </template>
