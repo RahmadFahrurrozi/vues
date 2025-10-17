@@ -20,7 +20,9 @@ defineProps({
 
 <template>
   <a :href="link">
-    <div class="flex border border-gray-200 rounded-md max-w-sm cursor-pointer">
+    <div
+      class="flex border border-gray-200 rounded-md max-w-sm cursor-pointer hover:shadow-md transition duration-300 ease-in-out"
+    >
       <div class="w-[420px] flex flex-col justify-around pl-4">
         <h3 class="text-gray-800 font-semibold">
           {{ title }}
