@@ -37,7 +37,7 @@ defineProps({
       />
       <div class="pt-4 flex flex-col gap-2 justify-between flex-grow">
         <div>
-          <h3 class="text-xl font-bold">{{ title }}</h3>
+          <h3 class="text-xl font-medium">{{ title }}</h3>
           <p class="text-base fo text-gray-500 mt-1">{{ description }}</p>
         </div>
         <div class="flex justify-end pt-3">
