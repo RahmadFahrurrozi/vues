@@ -6,7 +6,7 @@ import CtaButton from '@/components/CtaButton.vue'
 import ContainerFeatureCard from '@/components/ContainerFeatureCard.vue'
 import CtaFeatureSection from '@/components/CtaFeatureSection.vue'
 import ProductAndWork from '@/components/ProductAndWork.vue'
-import { Images } from '@/constant/images.constant'
+import { Images } from '@/constant/productImages.constant'
 import { FEATURE_CARD_DATA1 } from '@/constant/featureCard.constant'
 import { FEATURE_SECTION_LINK } from '@/constant/featureLinkSection.constant'
 </script>
