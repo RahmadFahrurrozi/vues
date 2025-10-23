@@ -1,6 +1,6 @@
 <script setup>
 import CardBlockLinks from './CardBlockLinks.vue'
-import { Images } from '@/constant/images.constant'
+import { Images } from '@/constant/productImages.constant'
 
 const link =
   'https://support.google.com/?utm_source=about.google&utm_medium=referral&utm_campaign=productspage'
