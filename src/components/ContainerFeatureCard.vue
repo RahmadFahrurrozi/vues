@@ -14,7 +14,7 @@ defineProps({
 </script>
 <template>
   <section class="py-16 max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
-    <h2 class="text-3xl md:text-4xl font-extrabold text-center text-gray-900">
+    <h2 class="text-3xl font-semibold md:text-4xl text-center text-gray-900">
       {{ title }}
     </h2>
     <p class="text-lg text-gray-600 text-center mt-3 mb-10" v-if="description">
