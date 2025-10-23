@@ -1,7 +1,7 @@
 <script setup>
 import CardItemProductAndWork from './CardItemProductAndWork.vue'
 import { TabletIcon, CarIcon } from 'lucide-vue-next'
-import { Images } from '@/constant/images.constant'
+import { Images } from '@/constant/productImages.constant'
 
 defineProps({
   title: String,
