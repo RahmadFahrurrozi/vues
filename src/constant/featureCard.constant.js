@@ -1,4 +1,4 @@
-import { Images } from './images.constant'
+import { Images } from './productImages.constant'
 
 export const FEATURE_CARD_DATA1 = [
   {
