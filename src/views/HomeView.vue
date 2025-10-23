@@ -1,7 +1,11 @@
-<script setup></script>
+<script setup>
+import FoollowInformation from '@/components/FoollowInformation.vue'
+import HomeBanner from '@/components/HomeBanner.vue'
+</script>
 
 <template>
-  <div>
-    <h1>Home Page</h1>
-  </div>
+  <section>
+    <HomeBanner />
+    <FoollowInformation />
+  </section>
 </template>
